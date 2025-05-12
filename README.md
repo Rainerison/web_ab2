@@ -30,3 +30,8 @@ Este projeto é um sistema web completo para gerenciamento de filmes e compra de
 
 ```bash
 git clone https://github.com/Rainerison/web_ab2.git
+
+### 2. Criar um Scheme no Mysql
+- crie tabelas para que possam ser manipuladas no mysql e adeque no codigo para que funcione da melhor maneira possivel.
+
+
